@@ -1,0 +1,32 @@
+export interface CantonCompany {
+  'Company Name (English)': string;
+  'Company Name (Chinese)': string;
+  'Establishment Date': string;
+  'Year of establishment': number;
+  'Age': number;
+  'Province': string;
+  'City, District, Business address': string;
+  'Canton Website': string;
+  'Official website': string;
+  'Telephone': string;
+  'Email': string;
+  'Canton Email': string;
+  'Canton Phone No': string;
+  'More Phones': string;
+  'More Mails': string;
+  'Unified Social Credit Code': string;
+  'Real Insured Employees': number;
+  'Enterprise Scale': string;
+  'Category': string;
+  'National standard industry categories': string;
+  'Company profile': string;
+  'Business scope': string;
+  'Credit Rate Scoring': string;
+  'Credit rating': string;
+  'Canton Main Products': string;
+  'Canton Main Keywords': string;
+  'Legal representative': string;
+  'Enterprise Type': string;
+  'Registered Capital': string;
+  'Paid Capital': string;
+}
