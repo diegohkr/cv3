@@ -1,0 +1,11 @@
+[
+  {
+    "id": "demo-user-001",
+    "email": "john@doe.com",
+    "name": "John Doe Demo",
+    "password": "johndoe123",
+    "image": null,
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "updatedAt": "2025-01-01T00:00:00.000Z"
+  }
+]
